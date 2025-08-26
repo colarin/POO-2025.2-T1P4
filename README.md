@@ -1,7 +1,5 @@
 # Programação Orientada a Objetos - Atividade (Lista 01-03) 📚💻
 
-![Banner de Programação](https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg)
-
 ---
 
 ## 👥 Integrantes
