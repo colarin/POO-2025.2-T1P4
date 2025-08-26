@@ -27,7 +27,7 @@
 📌 **Exercícios:**  
 - Resolvidos: 1º ao 10º  
 - Propostos: 1º ao 5º  
-- **Capítulo:** 15  
+- **Total de questões:** 15  
   - Cap. 03 — *Estrutura Sequencial*
 
 ![Imagem Estrutura Sequencial](COLOCA_LINK_IMAGEM_AQUI)
@@ -38,7 +38,7 @@
 📌 **Exercícios:**  
 - Resolvidos: 1º ao 10º  
 - Propostos: 1º ao 5º  
-- **Capítulos:** 30  
+- **Total de questões:** 30  
   - Cap. 04 — *Estrutura Condicional*  
   - Cap. 05 — *Estrutura de Repetição*
 
@@ -50,7 +50,7 @@
 ### LISTA 03  
 📌 **Exercícios:**  
 - Resolvidos: 1º ao 10º  
-- **Capítulos:** 20  
+- **Total de questões:** 20  
   - Cap. 06 — *Vetor*  
   - Cap. 08 — *Sub-rotina*
 
