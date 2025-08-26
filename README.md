@@ -16,8 +16,10 @@
 - **IDE utilizada:** Eclipse  
 - **Linguagem:** Java ☕
 
-![Logo Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
-![Logo Eclipse](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50"/>
+</p>
 
 ---
 
