@@ -1,6 +1,6 @@
-# Programação orientada a objetos - atividade (lista 01-03) 📚💻
+# Programação Orientada a Objetos - Atividade (Lista 01-03) 📚💻
 
-![Banner de Programação](COLOCA_LINK_DA_IMAGEM_AQUI)
+![Banner de Programação](https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg)
 
 ---
 
@@ -16,8 +16,8 @@
 - **IDE utilizada:** Eclipse  
 - **Linguagem:** Java ☕
 
-![Logo Java](COLOCA_LINK_IMAGEM_JAVA)  
-![Logo Eclipse](COLOCA_LINK_IMAGEM_ECLIPSE)
+![Logo Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
+![Logo Eclipse](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg)
 
 ---
 
@@ -30,8 +30,6 @@
 - **Total de questões:** 15  
   - Cap. 03 — *Estrutura Sequencial*
 
-![Imagem Estrutura Sequencial](COLOCA_LINK_IMAGEM_AQUI)
-
 ---
 
 ### LISTA 02  
@@ -42,9 +40,6 @@
   - Cap. 04 — *Estrutura Condicional*  
   - Cap. 05 — *Estrutura de Repetição*
 
-![Imagem Condicional](COLOCA_LINK_IMAGEM_AQUI)  
-![Imagem Repetição](COLOCA_LINK_IMAGEM_AQUI)
-
 ---
 
 ### LISTA 03  
@@ -53,6 +48,3 @@
 - **Total de questões:** 20  
   - Cap. 06 — *Vetor*  
   - Cap. 08 — *Sub-rotina*
-
-![Imagem Vetores](COLOCA_LINK_IMAGEM_AQUI)  
-![Imagem Funções](COLOCA_LINK_IMAGEM_AQUI)
