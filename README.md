@@ -1,12 +1,12 @@
-# POO Lista (01-03) 📚💻
+# Programação orientada a objetos - atividade (lista 01-03) 📚💻
 
 ![Banner de Programação](COLOCA_LINK_DA_IMAGEM_AQUI)
 
 ---
 
 ## 👥 Integrantes
-- Luis Wagner Araújo Colares Filho — [GitHub](COLOCA_O_LINK_AQUI)  
-- José Satiro Lima — [GitHub](COLOCA_O_LINK_AQUI)
+- Luis Wagner Araújo Colares Filho — [GitHub](https://github.com/colarin)  
+- José Satiro Lima — [GitHub](https://github.com/SatiroDev)
 
 ---
 
