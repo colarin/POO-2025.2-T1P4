@@ -4,7 +4,7 @@
 
 ## 👥 Integrantes
 - Luis Wagner Araújo Colares Filho — [GitHub](https://github.com/colarin)  
-- José Satiro Lima — [GitHub](https://github.com/SatiroDev)
+- José Satiro de Lima — [GitHub](https://github.com/SatiroDev)
 
 ---
 
