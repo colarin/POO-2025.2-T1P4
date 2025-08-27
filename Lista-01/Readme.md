@@ -19,15 +19,15 @@ Este repositório contém a resolução de exercícios de programação dividido
 
 ### Questão 3
 > Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.  
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-01/exercicios-resolvidos/Q03/src/br/edu/principal/principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-01/exercicios-resolvidos/Q03/src/br/edu/principal/Principal.java)
 
 ### Questão 4
 > Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.  
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-01/exercicios-resolvidos/Q04/src/br/edu/principal/principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-01/exercicios-resolvidos/Q04/src/br/edu/principal/Principal.java)
 
 ### Questão 5
 > Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário.  
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-01/exercicios-resolvidos/Q05/src/br/edu/principal/principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-01/exercicios-resolvidos/Q05/src/br/edu/principal/Principal.java)
 
 ### Questão 6
 > Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, sabendo-se que o funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7% também sobre o salário base.  
