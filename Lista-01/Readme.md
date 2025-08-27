@@ -11,7 +11,7 @@ Este repositório contém a resolução de exercícios de programação dividido
 
 ### Questão 1
 > Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.  
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-TIP4/blob/main/Lista-01/exercicios-resolvidos/Q01/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-01/exercicios-resolvidos/Q01/src/br/edu/principal/Principal.java)
 
 ### Questão 2
 > Faça um programa que receba três notas, calcule e mostre a média aritmética.  
