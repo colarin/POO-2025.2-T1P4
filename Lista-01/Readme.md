@@ -31,7 +31,7 @@ Este repositório contém a resolução de exercícios de programação dividido
 
 ### Questão 6
 > Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, sabendo-se que o funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7% também sobre o salário base.  
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-TIP4/blob/main/Lista-01/exercicios-resolvidos/Q06/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-01/exercicios-resolvidos/Q06/src/br/edu/principal/Principal.java)
 
 ### Questão 7
 > Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário a receber, sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o salário base.  
