@@ -35,19 +35,19 @@ Este repositório contém a resolução de exercícios de programação dividido
 
 ### Questão 7
 > Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário a receber, sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o salário base.  
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-TIP4/blob/main/Lista-01/exercicios-resolvidos/Q07/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-01/exercicios-resolvidos/Q07/src/br/edu/principal/Principal.java)
 
 ### Questão 8
 > Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento.  
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-TIP4/blob/main/Lista-01/exercicios-resolvidos/Q08/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-01/exercicios-resolvidos/Q08/src/br/edu/principal/Principal.java)
 
 ### Questão 9
 > Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura)/2.  
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-TIP4/blob/main/Lista-01/exercicios-resolvidos/Q09/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-01/exercicios-resolvidos/Q09/src/br/edu/principal/Principal.java)
 
 ### Questão 10
 > Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = π * R².  
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-TIP4/blob/main/Lista-01/exercicios-resolvidos/Q10/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-01/exercicios-resolvidos/Q10/src/br/edu/principal/Principal.java)
 
 ---
 
