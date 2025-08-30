@@ -55,7 +55,7 @@ Este repositório contém a resolução de exercícios de programação dividido
 
 ### Questão 1
 > Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo.  
-🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-01/Exercicios-Propostos/Q01/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-01/exercicios-propostos/Q1/src/br/edu/principal/Principal.java)
 
 ### Questão 2
 > Faça um programa que receba três números, calcule e mostre a multiplicação desses números.  
