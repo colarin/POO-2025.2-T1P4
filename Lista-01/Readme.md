@@ -59,19 +59,19 @@ Este repositório contém a resolução de exercícios de programação dividido
 
 ### Questão 2
 > Faça um programa que receba três números, calcule e mostre a multiplicação desses números.  
-🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-01/Exercicios-Propostos/Q02/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-01/exercicios-propostos/Q2/src/br/edu/principal/Principal.java)
 
 ### Questão 3
 > Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo segundo.  
-🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-01/Exercicios-Propostos/Q03/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-01/exercicios-propostos/Q3/src/br/edu/principal/Principal.java)
 
 ### Questão 4
 > Faça um programa que receba duas notas, calcule e mostre a média ponderada dessas notas, considerando peso 2 para a primeira e peso 3 para a segunda.  
-🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-01/Exercicios-Propostos/Q04/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-01/exercicios-propostos/Q4/src/br/edu/principal/Principal.java)
 
 ### Questão 5
 > Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo-se que este sofreu um desconto de 10%.  
-🔗 [Resolução do Exercício](https://github.com/SatiroDev/POO-2025.2-TIP4/blob/main/Lista-01/Exercicios-Propostos/Q05/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-01/exercicios-propostos/Q5/src/br/edu/principal/Principal.java)
 
 ---
 
