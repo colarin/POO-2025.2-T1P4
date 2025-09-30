@@ -136,7 +136,7 @@ Menu de opções:
 > Faça um programa que receba quatro notas de um aluno, calcule e mostre a média aritmética das notas e a
 mensagem de aprovado ou reprovado, considerando para aprovação média 7. 
 
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-02/CAP05/exercicios-propostos/Q1/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-03/exercicios-propostos/Q1/src/br/edu/principal/Principal.java)
 
 ---
 
@@ -150,21 +150,21 @@ na tabela a seguir:
 | 3,0 – 6,99        | Exame      |
 | 7,0 – 10,0       | Aprovado   |
 
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-02/CAP05/exercicios-propostos/Q2/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-03/exercicios-propostos/Q2/src/br/edu/principal/Principal.java)
 
 ---
 
 ### Questão 3  
 > Faça um programa que receba dois números e mostre o menor.
 > 
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-02/CAP05/exercicios-propostos/Q3/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-03/exercicios-propostos/Q3/src/br/edu/principal/Principal.java)
 
 ---
 
 ### Questão 4  
 > Faça um programa que receba três números e mostre o maior.  
 
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-02/CAP05/exercicios-propostos/Q4/src/br/edu/principal/Principal.java) 
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-03/exercicios-propostos/Q4/src/br/edu/principal/Principal.java) 
 
 ---
 
@@ -182,6 +182,6 @@ do usuário.
 Se a opção digitada for inválida, mostre uma mensagem de erro e termine a execução do programa.
 Lembre-se de que, na operação 4, o segundo número deve ser diferente de zero.  
 
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-02/CAP05/exercicios-propostos/Q5/src/br/edu/principal/Principal.java) 
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-03/exercicios-propostos/Q5/src/br/edu/principal/Principal.java) 
 
 ---
