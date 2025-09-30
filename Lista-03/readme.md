@@ -32,7 +32,7 @@ a tabela:
 | 5,0 – 5,99       | D        |
 | 0,0 – 4,99       | E        |
 
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-02/CAP05/exercicios-resolvidos/Q01/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-03/exercicios-resolvidos/Q01/src/br/edu/principal/Principal.java)
 
 ---
 
@@ -47,14 +47,14 @@ tirar para serem aprovados, considerando que a média exigida é 6,0.
 | 3,0 – 6,99        | Exame      |
 | 7,0 – 10,0       | Aprovado   |
 
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-02/CAP05/exercicios-resolvidos/Q02/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-03/exercicios-resolvidos/Q02/src/br/edu/principal/Principal.java)
 
 ---
 
 ### Questão 3  
 > Faça um programa que receba dois números e mostre o maior.  
 
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-02/CAP05/exercicios-resolvidos/Q03/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-03/exercicios-resolvidos/Q03/src/br/edu/principal/Principal.java)
 
 ---
 
@@ -62,7 +62,7 @@ tirar para serem aprovados, considerando que a média exigida é 6,0.
 > Faça um programa que receba três números e mostre-os em ordem crescente. Suponha que o usuário
 digitará três números diferentes.  
 
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-02/CAP05/exercicios-resolvidos/Q04/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-03/exercicios-resolvidos/Q04/src/br/edu/principal/Principal.java)
 
 ---
 
@@ -70,14 +70,14 @@ digitará três números diferentes.
 > Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga essa regra. Mostre, em seguida, os quatro números em ordem decrescente. Suponha
 que o usuário digitará quatro números diferentes.  
 
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-02/CAP05/exercicios-resolvidos/Q05/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-03/exercicios-resolvidos/Q05/src/br/edu/principal/Principal.java)
 
 ---
 
 ### Questão 6  
 > Faça um programa que receba um número inteiro e verifique se é par ou ímpar. 
 
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-02/CAP05/exercicios-resolvidos/Q06/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-03/exercicios-resolvidos/Q06/src/br/edu/principal/Principal.java)
 
 ---
 
@@ -94,7 +94,7 @@ O programa deve obedecer à tabela:
 | 2          | A, B e C em ordem decrescente |
 | 3          | O maior entre os outros dois números |
 
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-02/CAP05/exercicios-resolvidos/Q07/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-03/exercicios-resolvidos/Q07/src/br/edu/principal/Principal.java)
 
 ---
 
@@ -105,7 +105,7 @@ Menu de opções:
 1. Somar dois números.  
 2. Raiz quadrada de um número.  
 
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-02/CAP05/exercicios-resolvidos/Q08/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-03/exercicios-resolvidos/Q08/src/br/edu/principal/Principal.java)
 
 ---
 
@@ -115,7 +115,7 @@ Menu de opções:
 - **Mês por extenso**  
 - **Hora:minuto**  
 
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-02/CAP05/exercicios-resolvidos/Q09/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-03/exercicios-resolvidos/Q09/src/br/edu/principal/Principal.java)
 
 ---
 
@@ -125,7 +125,7 @@ Menu de opções:
 - mês (inteiro)  
 - ano (inteiro)  
 
-🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-02/CAP05/exercicios-resolvidos/Q10/src/br/edu/principal/Principal.java)
+🔗 [Resolução do Exercício](https://github.com/colarin/POO-2025.2-T1P4/blob/main/Lista-03/exercicios-resolvidos/Q10/src/br/edu/principal/Principal.java)
 
 
 ---
